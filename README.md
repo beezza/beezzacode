@@ -1,2 +1,1 @@
-# beezzacode
-Simple Code Editor
+# beezzacode - Simple Text Editor
