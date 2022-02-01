@@ -5,3 +5,5 @@
 *.iml
 
 /shelf
+
+/node_modules
